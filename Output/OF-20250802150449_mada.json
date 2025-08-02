@@ -1,0 +1,51 @@
+{
+  "numar": "",
+  "client": "mada",
+  "telefon": "0723333221",
+  "tip": "dulap de dressing",
+  "dimensiuni": {
+    "înălțime": 100,
+    "lățime": 100,
+    "adâncime": 100
+  },
+  "prompt": "stejar",
+  "items": [
+    {
+      "produs": "Picior_h27",
+      "cod": "H27",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Balama_ap",
+      "cod": "Ap3232",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Minifix",
+      "cod": "Min5656",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Placuta_balama",
+      "cod": "Pl3636",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Maber",
+      "cod": "M96",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    }
+  ],
+  "valoare": 0.0,
+  "valoare_total": 0.0
+}

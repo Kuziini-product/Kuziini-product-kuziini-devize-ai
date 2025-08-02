@@ -1,0 +1,51 @@
+{
+  "numar": "OF-20250802195516",
+  "client": "mada",
+  "telefon": "0466652525",
+  "tip": "dulap de dressing",
+  "dimensiuni": {
+    "înălțime": 100,
+    "lățime": 100,
+    "adâncime": 100
+  },
+  "prompt": "pal alb",
+  "items": [
+    {
+      "produs": "Placuta_balama",
+      "cod": "1w983",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Balama_ap",
+      "cod": "1w982",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Pal _Stejar",
+      "cod": "1w981",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Picior_h27",
+      "cod": "1w984",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Pfl_alb",
+      "cod": "1w987",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    }
+  ],
+  "valoare": 0.0,
+  "valoare_total": 0.0
+}
