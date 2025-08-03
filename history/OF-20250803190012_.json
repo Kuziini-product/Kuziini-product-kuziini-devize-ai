@@ -1,0 +1,51 @@
+{
+  "numar": "OF-20250803190012",
+  "client": "",
+  "telefon": "",
+  "tip": "dulap de dressing",
+  "dimensiuni": {
+    "înălțime": 1500,
+    "lățime": 1500,
+    "adâncime": 900
+  },
+  "prompt": "pal stejar",
+  "items": [
+    {
+      "produs": "Pal _Stejar",
+      "cod": "1w981",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Pal _alb",
+      "cod": "1w980",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Picior_h27",
+      "cod": "1w984",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Minifix",
+      "cod": "1w986",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Maber",
+      "cod": "1w985",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    }
+  ],
+  "valoare": 0.0,
+  "valoare_total": 1000.0
+}

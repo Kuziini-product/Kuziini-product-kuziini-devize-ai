@@ -1,0 +1,51 @@
+{
+  "numar": "OF-20250803204334",
+  "client": "Cristi",
+  "telefon": "0723333221",
+  "tip": "dulap de dressing",
+  "dimensiuni": {
+    "înălțime": 1200,
+    "lățime": 1200,
+    "adâncime": 560
+  },
+  "prompt": "pal stejar",
+  "items": [
+    {
+      "produs": "Minifix",
+      "cod": "1w986",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Balama_ap",
+      "cod": "1w982",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Pal _Stejar",
+      "cod": "1w981",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Placuta_balama",
+      "cod": "1w983",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Pal _alb",
+      "cod": "1w980",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    }
+  ],
+  "valoare": 0.0,
+  "valoare_total": 1000.0
+}
