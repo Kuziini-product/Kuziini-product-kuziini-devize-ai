@@ -1,0 +1,53 @@
+{
+  "numar": "OF-20250805075301",
+  "client": "Cristi",
+  "telefon": "0723333221",
+  "tip": "dulap de dressing",
+  "dimensiuni": {
+    "înălțime": 100,
+    "lățime": 100,
+    "adâncime": 100
+  },
+  "prompt": "",
+  "items": [
+    {
+      "produs": "Maber",
+      "cod": "1w985",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Pfl_alb",
+      "cod": "1w987",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Picior_h27",
+      "cod": "1w984",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Pal _Stejar",
+      "cod": "1w981",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    },
+    {
+      "produs": "Minifix",
+      "cod": "1w986",
+      "cantitate": 2,
+      "pret_unitar": 0.0,
+      "subtotal": 0.0
+    }
+  ],
+  "valoare": 0.0,
+  "valoare_total": 1000.0,
+  "tip_dulap": "dulap de dressing",
+  "descriere": ""
+}
